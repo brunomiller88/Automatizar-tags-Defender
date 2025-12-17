@@ -71,7 +71,8 @@ Tipo de perfil: Modelos
 
 Modelo: Personalizado
 
-📷 Imagem: tag001.png
+![tag001](tag001.png)
+
 
 2️⃣ Configurar o OMA-URI de Device Tagging
 
@@ -102,8 +103,10 @@ Auditoria
 
 Criação dos Device Groups no Defender
 
-📷 Imagem: tag002.png
-📷 Imagem: tag003.png
+![tag001](tag002.png)
+
+![tag001](tag003.png)
+
 
 3️⃣ Atribuir o perfil a um grupo do Entra ID
 
@@ -112,8 +115,10 @@ Na etapa Atribuições:
 Inclua o grupo do Entra ID desejado
 (ex: TI - Adubos Real)
 
-📷 Imagem: tag004.png
-📷 Imagem: tag005.png
+![tag001](tag004.png)
+
+![tag001](tag005.png)
+
 
 Finalize a criação do perfil.
 
@@ -127,7 +132,8 @@ Verifique o status de check-in
 
 Confirme que o dispositivo recebeu a política com sucesso
 
-📷 Imagem: tag006.png
+![tag001](tag006.png)
+
 
 ℹ️ A replicação pode levar alguns minutos, dependendo do ambiente.
 
@@ -151,8 +157,10 @@ Valor: TECNOLOGIA DA INFORMACAO - 2207
 
 Clique em Show preview para validar os dispositivos.
 
-📷 Imagem: tag007.png
-📷 Imagem: tag008.png
+![tag001](tag007.png)
+
+![tag001](tag008.png)
+
 
 6️⃣ Validar os dispositivos tagueados
 
@@ -164,8 +172,10 @@ Abra um dispositivo que recebeu a política
 
 Confirme a Device Tag aplicada automaticamente
 
-📷 Imagem: tag009.png
-📷 Imagem: tag010.png
+![tag001](tag009.png)
+
+![tag001](tag010.png)
+
 
 ✅ Resultado final
 
