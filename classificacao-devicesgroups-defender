@@ -6,7 +6,7 @@ Objetivo do Rank
 
 O Rank define qual grupo terá autoridade final sobre o comportamento de segurança do dispositivo.
 
-![001](001.png)
+![https://github.com/brunomiller88/Automatizar-tags-Defender/blob/main/001.png](https://github.com/brunomiller88/Automatizar-tags-Defender/blob/main/001.png)
 
 Quanto menor o número do Rank, maior a prioridade.
 
